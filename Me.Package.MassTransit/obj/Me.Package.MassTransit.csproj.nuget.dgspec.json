@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\workspace\\research\\mypackages\\Me.Package.MassTransit\\Me.Package.MassTransit.csproj": {}
+    "C:\\workspace\\research\\mypackages\\Me.Package.MassTransit\\Me.Package.MassTransit.csproj": {}
   },
   "projects": {
-    "c:\\workspace\\research\\mypackages\\Me.Package.MassTransit\\Me.Package.MassTransit.csproj": {
-      "version": "1.0.0",
+    "C:\\workspace\\research\\mypackages\\Me.Package.MassTransit\\Me.Package.MassTransit.csproj": {
+      "version": "0.0.1",
       "restore": {
-        "projectUniqueName": "c:\\workspace\\research\\mypackages\\Me.Package.MassTransit\\Me.Package.MassTransit.csproj",
+        "projectUniqueName": "C:\\workspace\\research\\mypackages\\Me.Package.MassTransit\\Me.Package.MassTransit.csproj",
         "projectName": "Me.Package.MassTransit",
-        "projectPath": "c:\\workspace\\research\\mypackages\\Me.Package.MassTransit\\Me.Package.MassTransit.csproj",
+        "projectPath": "C:\\workspace\\research\\mypackages\\Me.Package.MassTransit\\Me.Package.MassTransit.csproj",
         "packagesPath": "C:\\Users\\sandu\\.nuget\\packages\\",
-        "outputPath": "c:\\workspace\\research\\mypackages\\Me.Package.MassTransit\\obj\\",
+        "outputPath": "C:\\workspace\\research\\mypackages\\Me.Package.MassTransit\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sandu\\AppData\\Roaming\\NuGet\\NuGet.Config",

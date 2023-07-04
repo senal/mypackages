@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "DMXXwjYLAprIhJUd1NCAtUmyfgJ+49vMhXBlH+crA+WTstmW6KhtnYehFO56YwM3vfLLRRmWFpgyHkF3Sqa/Ow==",
+  "dgSpecHash": "YujJnB3eC0r/KydGedUaRCW+pMM5JwF2HWmyeBndi5xHnQPoPXLFcSHilC3sEpwVilCbTKGQVNjKh0Kuptmu2g==",
   "success": true,
-  "projectFilePath": "c:\\workspace\\research\\mypackages\\Me.Package.MassTransit\\Me.Package.MassTransit.csproj",
+  "projectFilePath": "C:\\workspace\\research\\mypackages\\Me.Package.MassTransit\\Me.Package.MassTransit.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

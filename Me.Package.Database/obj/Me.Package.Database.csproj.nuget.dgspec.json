@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\workspace\\research\\mypackages\\Me.Package.Database\\Me.Package.Database.csproj": {}
+    "C:\\workspace\\research\\mypackages\\Me.Package.Database\\Me.Package.Database.csproj": {}
   },
   "projects": {
-    "c:\\workspace\\research\\mypackages\\Me.Package.Database\\Me.Package.Database.csproj": {
-      "version": "1.0.0",
+    "C:\\workspace\\research\\mypackages\\Me.Package.Database\\Me.Package.Database.csproj": {
+      "version": "0.0.1",
       "restore": {
-        "projectUniqueName": "c:\\workspace\\research\\mypackages\\Me.Package.Database\\Me.Package.Database.csproj",
+        "projectUniqueName": "C:\\workspace\\research\\mypackages\\Me.Package.Database\\Me.Package.Database.csproj",
         "projectName": "Me.Package.Database",
-        "projectPath": "c:\\workspace\\research\\mypackages\\Me.Package.Database\\Me.Package.Database.csproj",
+        "projectPath": "C:\\workspace\\research\\mypackages\\Me.Package.Database\\Me.Package.Database.csproj",
         "packagesPath": "C:\\Users\\sandu\\.nuget\\packages\\",
-        "outputPath": "c:\\workspace\\research\\mypackages\\Me.Package.Database\\obj\\",
+        "outputPath": "C:\\workspace\\research\\mypackages\\Me.Package.Database\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sandu\\AppData\\Roaming\\NuGet\\NuGet.Config",

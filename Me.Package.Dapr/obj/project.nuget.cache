@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "56hpUcgnoEfRkGdr4KnqmPtFWFjBoO3WlufAF8gGU6+bPzaqfPUBDebAJxN+jYKNaPQWEETVUcCqrPVQaYS+tQ==",
+  "dgSpecHash": "rhuinehX95qJqXmDIyRvVvvvI42dnILgR8VNIdnr6M/4JyU2oJHO2qNbLR1f3E75K7ttD05OSOK3pebBm/yi0A==",
   "success": true,
-  "projectFilePath": "c:\\workspace\\research\\mypackages\\Me.Package.Dapr\\Me.Package.Dapr.csproj",
+  "projectFilePath": "C:\\workspace\\research\\mypackages\\Me.Package.Dapr\\Me.Package.Dapr.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

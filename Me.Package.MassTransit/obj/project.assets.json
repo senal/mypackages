@@ -11,7 +11,7 @@
     "C:\\Users\\sandu\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "0.0.1",
     "restore": {
       "projectUniqueName": "C:\\workspace\\research\\mypackages\\Me.Package.MassTransit\\Me.Package.MassTransit.csproj",
       "projectName": "Me.Package.MassTransit",

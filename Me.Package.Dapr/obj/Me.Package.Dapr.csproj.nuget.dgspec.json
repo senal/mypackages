@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\workspace\\research\\mypackages\\Me.Package.Dapr\\Me.Package.Dapr.csproj": {}
+    "C:\\workspace\\research\\mypackages\\Me.Package.Dapr\\Me.Package.Dapr.csproj": {}
   },
   "projects": {
-    "c:\\workspace\\research\\mypackages\\Me.Package.Dapr\\Me.Package.Dapr.csproj": {
-      "version": "1.0.0",
+    "C:\\workspace\\research\\mypackages\\Me.Package.Dapr\\Me.Package.Dapr.csproj": {
+      "version": "0.0.1",
       "restore": {
-        "projectUniqueName": "c:\\workspace\\research\\mypackages\\Me.Package.Dapr\\Me.Package.Dapr.csproj",
+        "projectUniqueName": "C:\\workspace\\research\\mypackages\\Me.Package.Dapr\\Me.Package.Dapr.csproj",
         "projectName": "Me.Package.Dapr",
-        "projectPath": "c:\\workspace\\research\\mypackages\\Me.Package.Dapr\\Me.Package.Dapr.csproj",
+        "projectPath": "C:\\workspace\\research\\mypackages\\Me.Package.Dapr\\Me.Package.Dapr.csproj",
         "packagesPath": "C:\\Users\\sandu\\.nuget\\packages\\",
-        "outputPath": "c:\\workspace\\research\\mypackages\\Me.Package.Dapr\\obj\\",
+        "outputPath": "C:\\workspace\\research\\mypackages\\Me.Package.Dapr\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\sandu\\AppData\\Roaming\\NuGet\\NuGet.Config",
