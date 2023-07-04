@@ -1,5 +1,5 @@
 # Authentication Packages
-Common packages relates to authentication
+Common packages relates to Dapr
 
 ## Create and publish package
 ```powershell
