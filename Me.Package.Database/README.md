@@ -9,5 +9,5 @@ $gh_pat=["PAT HERE"]
 
 dotnet pack .\Me.Package.Database --configuration Release -p:PackageVersion=$version -p:RepositoryUrl=https://github.com/$owner/mypackages -o .\packages
 
-dotnet nuget push .\packages\Me.Package.Authentication.$version.nupkg --api-key $gh_pat --source "https://nuget.pkg.github.com/$owner/index.json"
+dotnet nuget push .\packages\Me.Package.Database.$version.nupkg --api-key $gh_pat --source "https://nuget.pkg.github.com/$owner/index.json"
 ```
