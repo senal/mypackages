@@ -5,7 +5,7 @@
   },
   "projects": {
     "C:\\workspace\\research\\mypackages\\Me.Package.MassTransit\\Me.Package.MassTransit.csproj": {
-      "version": "0.0.1",
+      "version": "0.0.2",
       "restore": {
         "projectUniqueName": "C:\\workspace\\research\\mypackages\\Me.Package.MassTransit\\Me.Package.MassTransit.csproj",
         "projectName": "Me.Package.MassTransit",

@@ -3,7 +3,7 @@ Common packages relates to MassTransit
 
 ## Create and publish package
 ```powershell
-$version="0.0.1"
+$version="0.0.2"
 $owner="senal"
 $gh_pat = ["PAT HERE"]
 
